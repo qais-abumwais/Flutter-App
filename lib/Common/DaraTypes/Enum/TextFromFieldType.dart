@@ -1,0 +1,9 @@
+enum TextFromFieldType {
+    EMAIL,
+    PASSWORD,
+    TEXT,
+    NUMBER,
+    WITHOUT_SPECIAL_CHARACTER,
+    MULTILINE,
+    UNSIGNED_NUMBER
+}
